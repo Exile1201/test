@@ -17,6 +17,8 @@ permalink: /
 <br>
 > My eyes hurt looking at this.
 
+<img src="src/assets/img/texas.jpeg">
+
 
 ##  Features
 * Highly customizable with user-friendly hacker-like design.
