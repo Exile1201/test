@@ -17,7 +17,7 @@ permalink: /
 <br>
 > My eyes hurt looking at this.
 
-<img src="src/assets/img/texas.jpeg">
+<img src="src/assets/img/exilebg.jpeg">
 
 
 ##  Features
