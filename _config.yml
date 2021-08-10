@@ -1,5 +1,5 @@
 # 1. Site Settings
-title               : test
+title               : Exile1201-Blog
 owner               : "Exile1201"
 ## url                : "https://exile1201.github.io"
 ## baseurl            : "Exile1201-blgger"
@@ -84,16 +84,16 @@ defaults:
       footer              : true        # whether show footer by default
 
 # 5. Social Media Accounts
-email               : "just-test" 
+email               :
 linkedin            : 
-github              : "just-test" 
+github              : "exile1201" 
 gitlab              : 
 website             : 
-twitter             : "just-test"
-facebook            : "just-test"
+twitter             : "exie1201"
+facebook            : 
 instagram           : 
-youtube             : "just-test"
-steam               : "just-test"
+youtube             : "exile1201"
+steam               : 
 weibo               :
       
 # 6. Where things are
