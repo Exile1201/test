@@ -1,8 +1,8 @@
 # 1. Site Settings
-title               : Exile1201-Blog
+title               : Exile1201
 owner               : "Exile1201"
 ## url                : "https://exile1201.github.io"
-## baseurl            : "Exile1201-blgger"
+## baseurl            : "Exile"
 permalink           : /:title/
 description         : "A hacker-style note-keeping website template."
 markdown            : kramdown
