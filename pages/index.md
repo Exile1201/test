@@ -15,7 +15,7 @@ permalink: /
 # Exile1201 Blogger
 
 <br>
-> My eyes hurt looking at this.
+> This thing took me 36 hours just to fix things that wasn't working anymore
 
 <img src="src/assets/img/exilebg.jpeg" height="100" length="200">
 
