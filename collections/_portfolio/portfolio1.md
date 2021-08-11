@@ -10,7 +10,9 @@ Then I start liking this formula
 \\[ x = {-b \pm \sqrt{b^2-4ac} \over 2a} \\]
 but hey we can do a lot of things with this website
 
-| What to work on | Status   | Comment                |
+## Things to work on
+
+| List            | Status   | Comment                |
 | :-------------- | :-------- | :--------------------- |
 | ~~Hacking the Goverment~~ | Unknown | Irreversible damage? |
 | Start making website | Too much work   | No irreversible damage |
