@@ -9,7 +9,7 @@ footer: true
 title: ""
 author: ""
 encrypted_text: true
-permalink: /
+permalink: /test
 published: false
 ---
 {{site.collection_order[0]}}
