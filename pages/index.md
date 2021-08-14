@@ -1,12 +1,12 @@
 ---
 layout: default
-post_list: true
+post_list: false
 toc: false
 comment: true
 home_btn: true
 btn_text: true
 footer: true
-title: "Exile1201 Blogger"
+title: "Exile1201's Blogger"
 author: ""
 encrypted_text: true
 permalink: /
