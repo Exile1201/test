@@ -16,10 +16,6 @@ collection_order    :
   [
     "posts",
     "math",
-    "album",
-    "physics",
-    "biology",
-    "finance",
     "my_notes",
     "portfolio",
   ]
