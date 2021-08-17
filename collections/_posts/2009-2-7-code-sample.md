@@ -2,6 +2,7 @@
 title: Sample Code - Quick Sort
 category: Sample
 date: 2019-2-4
+publish: false
 ---
 
 ## Quick sort in python
