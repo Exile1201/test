@@ -15,7 +15,6 @@ bgtext              : "ABCFGHKLMNPQRSVWXYZabcdefghijklmnopqrstuvwxyz@#$%&*+-;/[]
 collection_order    : 
   [
     "posts",
-    "math",
     "my_notes",
     "portfolio",
   ]
