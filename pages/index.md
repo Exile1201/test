@@ -8,7 +8,7 @@ btn_text: true
 footer: true
 title: "Exile1201's Blogger"
 author: ""
-encrypted_text: true
+encrypted_text: false
 permalink: /
 ---
 {{site.collection_order[0]}}
