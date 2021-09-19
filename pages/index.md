@@ -23,7 +23,7 @@ permalink: /
 ## Welcome to my blogger
 
 This will be the website I will be using, but if you do not like this layout
-click <div style="color: rgb(42,167,239)"> [Click Here](https://exile1201.github.io/blog) </div>
+click <b>[Click Here](https://exile1201.github.io/blog) </b>
 for more simple version of the blogger.
 
 ## How it works?
