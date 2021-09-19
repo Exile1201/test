@@ -19,6 +19,8 @@ permalink: /
 
 <img src="src/assets/img/exilebg.jpeg" height="100" length="200">
 
+<a href="site/mmd1.html?v=LoKDjd26c" target="_new">Video</a>
+
 
 ##  Features
 * Highly customizable with user-friendly hacker-like design.
